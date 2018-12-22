@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+  <dialogue>
+    <role>老欧</role>
+    <detail>hhhh 年轻人你又回来了啊！</detail>
+  </dialogue>
+  <dialogue>
+    <role>vivi</role>
+    <detail>（这个奇怪老人家胡言乱语什么啊 我们认识吗？）</detail>
+  </dialogue>
+  <dialogue>
+    <role>老欧</role>
+    <detail>呃....看你长得如此俊俏，不愧是老夫的.....唔说漏嘴了。</detail>
+  </dialogue>
+  <dialogue>
+    <role>vivi</role>
+    <detail>
+      （在这个穷乡僻壤，还是不要和他多计较了）话说老人家，你知道这里是哪里吗？
+    </detail>
+  </dialogue>
+  <dialogue>
+    <role>啊螺</role>
+    <detail>
+      救命啊，我家的猫变得好奇怪，呜呜呜我的咕噜平时都只吃蔬菜，它们在村子西南方向的我的菜园子里！
+    </detail>
+  </dialogue>
+  <dialogue>
+    <role>vivi</role>
+    <detail>？？？</detail>
+  </dialogue>
+  <dialogue>
+    <role>老欧、村民</role>
+    <detail>嘤嘤嘤老夫最怕毛茸茸的东西了，可不能让它们跑出来了，年轻人，就交给你了！</detail>
+  </dialogue>
+  <dialogue>
+    <role>vivi</role>
+    <detail>什么？？？</detail>
+  </dialogue>
+</dialogues>

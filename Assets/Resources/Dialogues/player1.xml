@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+  <dialogue>
+    <role>vivi</role>
+    <detail>发...发生了什么...我在哪里...我是谁？</detail>
+  </dialogue>
+  <dialogue>
+    <role>vivi</role>
+    <detail>欸？好重...完全搬不动...</detail>
+  </dialogue>
+</dialogues>

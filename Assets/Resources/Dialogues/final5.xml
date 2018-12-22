@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+  <dialogue>
+    <role>vivi</role>
+    <detail>谢谢你这样关心我，但我知道，我可能会这样永远不会消失，但“我”，即将要消失了。</detail>
+  </dialogue>
+  <dialogue>
+    <role>vivi</role>
+    <detail>那再见了，希望下次见到“我”的时候，这一切会有所改变吧。</detail>
+  </dialogue>
+</dialogues>

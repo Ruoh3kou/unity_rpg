@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+  <dialogue>
+    <role>vivi</role>
+    <detail>视野好像恢复了</detail>
+  </dialogue>
+  <dialogue>
+    <role>vivi</role>
+    <detail>但是..这个地面为什么看起来这么奇怪？</detail>
+  </dialogue>
+</dialogues>

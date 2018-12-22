@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+  <dialogue>
+    <role>KK</role>
+    <detail>舔...舔...舔舔舔....</detail>
+  </dialogue>
+  <dialogue>
+    <role>vivi</role>
+    <detail>这是...龙....</detail>
+  </dialogue>
+  <dialogue>
+    <role>A</role>
+    <detail>(它向vivi看了过来)</detail>
+  </dialogue>
+  <dialogue>
+    <role>vivi</role>
+    <detail>你好像很喜欢这朵花？</detail>
+  </dialogue>
+  <dialogue>
+    <role>KK</role>
+    <detail>嗷...呜...(走上前来)</detail>
+  </dialogue>
+  <dialogue>
+    <role>vivi</role>
+    <detail>它好像想跟我走，真是奇怪的生物</detail>
+  </dialogue>
+</dialogues>

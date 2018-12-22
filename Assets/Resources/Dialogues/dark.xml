@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+  <dialogue>
+    <role>vivi</role>
+    <detail>！</detail>
+  </dialogue>
+  <dialogue>
+    <role>vivi</role>
+    <detail>怎么突然变黑了!</detail>
+  </dialogue>
+  <dialogue>
+    <role>KK</role>
+    <detail>嗷！</detail>
+  </dialogue>
+</dialogues>

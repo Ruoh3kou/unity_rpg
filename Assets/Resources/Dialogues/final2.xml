@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+  <dialogue>
+    <role>vivi</role>
+    <detail>虽然不是很清楚，但也就是说，我就是被“临时”创造出来的生命吗？</detail>
+  </dialogue>
+  <dialogue>
+    <role>vivi</role>
+    <detail>我会在不知道的情况下，就消失，就又出现，然后重复这一切吗？</detail>
+  </dialogue>
+  <dialogue>
+    <role>vivi</role>
+    <detail>虽然不知道你是谁，但是，你能帮我结束这一切吗？</detail>
+  </dialogue>
+</dialogues>

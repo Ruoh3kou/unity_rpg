@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+  <dialogue>
+    <role>A</role>
+    <detail>噼……啪…(传来蛋壳裂开的声音)</detail>
+  </dialogue>
+  <dialogue>
+    <role>vivi</role>
+    <detail>这是...什么声音?..</detail>
+  </dialogue>
+</dialogues>

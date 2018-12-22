@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+  <dialogue>
+    <role>vivi</role>
+    <detail>谢谢你，比起拥有这样无法掌控的“生命”，我更希望拥有自由。</detail>
+  </dialogue>
+  <dialogue>
+    <role>vivi</role>
+    <detail>再见了。</detail>
+  </dialogue>
+</dialogues>

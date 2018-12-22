@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+  <dialogue>
+    <role>vivi</role>
+    <detail>...这是..</detail>
+  </dialogue>
+  <dialogue>
+    <role>vivi</role>
+    <detail>感觉身体又充满了力量！</detail>
+  </dialogue>
+</dialogues>

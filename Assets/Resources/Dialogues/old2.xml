@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+  <dialogue>
+    <role>老欧</role>
+    <detail>你打死了坏猫咪？真是令人目瞪口呆的能力者啊，你刚刚得到了猫咪的皮毛吗？交给我吧！</detail>
+  </dialogue>
+  <dialogue>
+    <role>老欧</role>
+    <detail>这里是一件兽皮大衣，你会用上的！</detail>
+  </dialogue>
+</dialogues>

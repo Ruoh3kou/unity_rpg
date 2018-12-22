@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+  <dialogue>
+    <role>vivi</role>
+    <detail>玩家..就是你控制着我吗？</detail>
+  </dialogue>
+  <dialogue>
+    <role>vivi</role>
+    <detail>所以，从一开始你就知道这一切了吗？</detail>
+  </dialogue>
+</dialogues>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+  <dialogue>
+    <role>vivi</role>
+    <detail>这是什么东西！</detail>
+  </dialogue>
+  <dialogue>
+    <role>vivi</role>
+    <detail>它身上那是什么。。？</detail>
+  </dialogue>
+  <dialogue>
+    <role>小超</role>
+    <detail>这是最新的XBOXONE手柄！</detail>
+  </dialogue>
+  <dialogue>
+    <role>小超</role>
+    <detail>不对，你怎么又来了</detail>
+  </dialogue>
+  <dialogue>
+    <role>vivi</role>
+    <detail>手柄...是什么？ 什么叫我又来了？</detail>
+  </dialogue>
+  <dialogue>
+    <role>小超</role>
+    <detail>别问啦！ 快结束战斗我还要打彩虹六号呢！</detail>
+  </dialogue>
+  <dialogue>
+    <role>vivi</role>
+    <detail>那又是什么？！</detail>
+  </dialogue>
+</dialogues>

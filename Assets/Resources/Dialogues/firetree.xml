@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+  <dialogue>
+    <role>vivi</role>
+    <detail>嗯..这里好像没有出去的路了..</detail>
+  </dialogue>
+  <dialogue>
+    <role>KK</role>
+    <detail>嗷..(它张了张嘴)</detail>
+  </dialogue>
+  <dialogue>
+    <role>vivi</role>
+    <detail>你是说..你可以喷火球？？</detail>
+  </dialogue>
+  <dialogue>
+    <role>vivi</role>
+    <detail>奇怪，我怎么会懂他的意思</detail>
+  </dialogue>
+  <dialogue>
+    <role>vivi</role>
+    <detail>面前这两颗小树好像比较容易，试试看吧！</detail>
+  </dialogue>
+</dialogues>
